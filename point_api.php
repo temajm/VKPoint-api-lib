@@ -230,11 +230,11 @@ return $json_request;
 		}
 		
 		/*
-		 * @Вывод общего топа VIP пользователей.
+		 * @Поиск по пользователям.
 		 * @param string $search — Запрос на поиск
 		 * @param int $count — Максимальное выводимое кол-во пользователей в поиске
 		*/
-		public function getTopVip($search,$count){
+		public function search($search,$count){
 		    $options = array(
 
   'http'=>array(
