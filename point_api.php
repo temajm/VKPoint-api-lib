@@ -6,9 +6,9 @@
  */
 class VKPoint_api{
 
-
-	private $token = "";
 	private $user_id = '';
+	private $token = "";
+	
 
 	/**
 	 * Конструктор
