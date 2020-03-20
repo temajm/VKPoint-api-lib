@@ -1,7 +1,7 @@
 <?php
 /**
  * -----VKPoint_api------
- * @by Artem Kruchinin (vk.com/tkruchinin)
+ * @by Artem Kruchinin (vk.com/temajm)
  * @version 1.0
  */
 class VKPoint_api{
