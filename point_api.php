@@ -21,9 +21,6 @@ class VKPoint_api{
 		$this->token = $token;
 	}
 	
-	private function request(string $method, string $body) {
-	    
-	}
 	
 	/*
 	    * @Перевод VK Point с аккаунта на другой аккаунт. 
